@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm SizaGod<br><br>### About Me:<br>- 👨‍💻 Python Developer with a passion for creating innovative solutions.<br>- 🌐 Skilled in web development and automation.<br>- 💬 Reach me on Telegram: [SizaGod](https://t.me/SizaGod)<br>- 📢 Follow my Telegram Channel: [SizaGodCh](https://t.me/SizaGodCh)<br><br>### Languages & Tools:<br>- 🐍 Python<br>- ⚛️ JavaScript (React)<br>- 🌐 HTML/CSS<br>- 🐘 SQL<br>- ☕ Java<br>- 🚀 Flask / Django for web development<br>
+# 👋 Hi, I'm SizaGod<br><br> About Me:<br>- 👨‍💻 Python Developer with a passion for creating innovative solutions.<br>- 🌐 Skilled in web development and automation.<br>- 💬 Reach me on Telegram: [SizaGod](https://t.me/SizaGod)<br>- 📢 Follow my Telegram Channel: [SizaGodCh](https://t.me/SizaGodCh)<br><br> Languages & Tools:<br>- 🐍 Python<br>- ⚛️ JavaScript (React)<br>- 🌐 HTML/CSS<br>- 🐘 SQL<br>- ☕ Java<br>- 🚀 Flask / Django for web development<br>
 
 
 ## 🌐 Socials:
